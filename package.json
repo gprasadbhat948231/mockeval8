@@ -1,0 +1,15 @@
+{
+  "name": "mockeval8",
+  "version": "1.0.0",
+  "description": "mock eval eight",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Guru",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
